@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Outfit", sans-serif;
+}
+
+.fundo {
+    background-color: hsl(212, 45%, 89%);
+    height: 645px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.principal {
+    background-color: white;
+    width: 320px;
+    height: 497px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+img {
+    margin: 15px;
+    width: 288px;
+    height: 288px;
+    border-radius: 10px;
+}
+
+.text {
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 15px;
+}
+
+h3 {
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    color: gray;
+}
