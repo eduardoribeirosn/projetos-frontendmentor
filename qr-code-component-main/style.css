@@ -6,7 +6,7 @@ body {
 
 .fundo {
     background-color: hsl(212, 45%, 89%);
-    height: 645px;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
